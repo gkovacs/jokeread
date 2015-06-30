@@ -1,0 +1,14 @@
+{
+  "name": "jquery.jadedom",
+  "_cacheHeaders": {
+    "ETag": "\"a4477d78a92a398168d90b013d6d4a00018c3dbe\"",
+    "Content-Length": "14093",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:a4477d78a",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/robertmesserle/jadeDom/master/jquery.jadedom.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/robertmesserle/jadeDom/master/jquery.jadedom.js",
+  "_direct": true
+}
